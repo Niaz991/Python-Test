@@ -1,0 +1,44 @@
+{
+"challenges": [
+    {
+      "type": "mcq",
+      "question": null,
+      "image_url": null,
+      "options": [
+        {
+          "A": {
+            "text": null
+          }
+        },
+        {
+          "B": {
+            "text": null
+          }
+        },
+        {
+          "C": {
+            "text": null
+          }
+        },
+        {
+          "D": {
+            "text": null
+          }
+        }
+      ],
+      "correct_answer": null
+    },
+    {
+      "type": "fill_in_the_blank",
+      "question": null,
+      "image_url": null,
+      "correct_answer": null
+    },
+    {
+      "type": "text",
+      "question": null,
+      "image_url": null,
+      "sample_answer": null
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "skill_name": "Agriculture",
+    "skill_levels": ["Beginner", "Intermediate", "Advanced"],
+    "user_skill_level": "Beginner",
+    "goal_options": ["Basic proficiency", "Advanced proficiency", "Mastery"],
+    "goal": "Advanced proficiency",
+    "number_of_levels": 1,
+    "level_questions": 1
+  }
+  

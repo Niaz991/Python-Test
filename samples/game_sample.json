@@ -1,0 +1,69 @@
+{
+  "game_title": "TimeTraveler - Ancient Egypt Unveiled",
+  "game_story": "You've discovered the time portal and embarked on a journey to Ancient Egypt.",
+  "levels": [
+    {
+      "level": 1,
+      "title": "Nile Valley Beginnings",
+      "story": "You've discovered the time portal and embarked on a journey to Ancient Egypt. To ensure a safe passage, you need to learn the basics of this fascinating civilization.",
+      "challenges": [
+        {
+          "type": "mcq",
+          "question": "What river is central to the life of Ancient Egypt?",
+          "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-sRJ9dYnUrN83Yfneak5MYuza/user-HqJNuG0wMAYtQxwQR7DB3KEH/img-kmpEzvNGWDQEfpK7zftuDtFb.png?st=2023-11-13T06%3A28%3A25Z&se=2023-11-13T08%3A28%3A25Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-12T12%3A47%3A00Z&ske=2023-11-13T12%3A47%3A00Z&sks=b&skv=2021-08-06&sig=Fq6ML%2BrkQbWolg5sMDIdYOv8DPDVvMQocyGGlIjMInA%3D",
+          "options": [
+            {
+              "A": {
+                "text": "Nile"
+
+              }
+            },
+            {
+              "B": {
+                "text": "Nile"
+
+              }
+            },
+            {
+              "C": {
+                "text": "Nile"
+
+              }
+            },
+            {
+              "D": {
+                "text": "Nile"
+
+              }
+            }
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "type": "fill_in_the_blank",
+          "question": "The ancient Egyptians built massive structures known as __________.",
+          "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-sRJ9dYnUrN83Yfneak5MYuza/user-HqJNuG0wMAYtQxwQR7DB3KEH/img-ksotIlFYIhstoWQQY46jsBX8.png?st=2023-11-13T06%3A52%3A38Z&se=2023-11-13T08%3A52%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-13T06%3A17%3A25Z&ske=2023-11-14T06%3A17%3A25Z&sks=b&skv=2021-08-06&sig=dobsEku1SPqPqWn%2BiSFCb0vLr%2B7EF5CS0uKW9Ha7k2c%3D",
+          "correct_answer": "pyramids"
+        },
+        {
+          "type": "text",
+          "question": "Describe one significant cultural aspect of Ancient Egypt.",
+          "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-sRJ9dYnUrN83Yfneak5MYuza/user-HqJNuG0wMAYtQxwQR7DB3KEH/img-BAlgVCqFMYDZGxVT5KmUf1G6.png?st=2023-11-13T06%3A54%3A15Z&se=2023-11-13T08%3A54%3A15Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-13T06%3A16%3A09Z&ske=2023-11-14T06%3A16%3A09Z&sks=b&skv=2021-08-06&sig=TfOShAwUPLpAADej5bd/Cv9DhJUTMtE/98/LChlL7Xo%3D",
+          "sample_answer": "Ancient Egyptians practiced mummification to preserve their bodies for the afterlife."
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Building Wonders",
+      "story": "You've arrived during the construction of the Great Pyramid of Giza. Explore the secrets of pyramid-building.",
+      "challenges": []
+    },
+    {
+      "level": 3,
+      "title": "Royalty & Religion",
+      "story": "You've entered the Valley of the Kings, filled with tombs of pharaohs and nobles. Learn about Egyptian royalty and religion.",
+      "challenges": []
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "question": "Describe one significant cultural aspect of Ancient Egypt.",
+    "sample_answer": "Ancient Egyptians practiced mummification to preserve their bodies for the afterlife.",
+    "user_answer": "making mummies of bodies",
+    "correct": null // API revieces null and the response changes it to either true or false and returns
+}

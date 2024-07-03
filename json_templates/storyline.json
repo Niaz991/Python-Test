@@ -1,0 +1,17 @@
+{   
+    "game_title": null,
+    "game_story": null,
+    "levels": [
+        {
+        "level" : 1,
+        "title": null,
+        "story": null
+        },
+      {
+        "level": 2,
+        "title": null,
+        "story": null
+      }
+    ]
+
+}

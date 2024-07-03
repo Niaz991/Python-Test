@@ -1,0 +1,147 @@
+{
+    "game_title": "Warfront: World War II",
+    "game_story": "Join the fight and become a master historian as you uncover the secrets and stories of World War II. Immerse yourself in history while experiencing the challenges and triumphs faced by both soldiers and civilians. From the front lines to the home front, your knowledge will be put to the test as you progress through this interactive learning game.",
+    "levels": [
+        {
+            "level": 1,
+            "title": "Origins of the War",
+            "story": "Welcome to level 1! The year is 1939 and tensions are rising in Europe. Take on the role of an aspiring historian and dive into the origins of World War II. Your first mission is to unravel the complex web of alliances, treaties, and conflicts that led to the outbreak of war. As you navigate through historical documents, news articles, and interactive maps, you will uncover the motivations and actions of key players such as Adolf Hitler, Benito Mussolini, and Winston Churchill. Can you piece together the puzzle and understand the events that ignited the global conflict?",
+            "challenges": [
+                {
+                    "type": "mcq",
+                    "question": "Which country invaded Poland in 1939, leading to the outbreak of World War II?",
+                    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-sRJ9dYnUrN83Yfneak5MYuza/user-HqJNuG0wMAYtQxwQR7DB3KEH/img-4h768z1Yk8KNey2XSM89ewZO.png?st=2023-11-21T08%3A27%3A18Z&se=2023-11-21T10%3A27%3A18Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-20T20%3A18%3A41Z&ske=2023-11-21T20%3A18%3A41Z&sks=b&skv=2021-08-06&sig=bqTadAmjJerYgPm2fwsqAvpIX%2Br2HPQs/thKhWOh%2BDM%3D",
+                    "options": [
+                        {
+                            "A": {
+                                "text": "Germany"
+                            }
+                        },
+                        {
+                            "B": {
+                                "text": "Italy"
+                            }
+                        },
+                        {
+                            "C": {
+                                "text": "Soviet Union"
+                            }
+                        },
+                        {
+                            "D": {
+                                "text": "United Kingdom"
+                            }
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "type": "fill_in_the_blank",
+                    "question": "The German dictator during World War II was ________.",
+                    "image_url": "OpenAI API returned an API Error: Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+                    "correct_answer": "Adolf Hitler"
+                },
+                {
+                    "type": "text",
+                    "question": "Briefly explain the origins of World War II.",
+                    "image_url": "OpenAI API returned an API Error: Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+                    "sample_answer": "World War II began in 1939 when Germany, led by Adolf Hitler, invaded Poland. This invasion violated international agreements and sparked a chain reaction of declarations of war, ultimately leading to a global conflict involving major powers such as the United Kingdom, France, the Soviet Union, and the United States."
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "title": "Blitzkrieg: The German Invasion",
+            "story": "Congratulations on completing level 1! Now, it's time to face one of the most pivotal moments of World War II - the German invasion of Poland. As a historian specializing in military strategy, you must analyze the tactics employed by the German forces during the Blitzkrieg. Study maps, review historical footage, and read firsthand accounts to understand the lightning-fast invasion that caught Poland by surprise. Your task is to identify the key components of Blitzkrieg and explain how it influenced the subsequent course of the war. Only a true expert can succeed in this critical mission!",
+            "challenges": [
+                {
+                    "type": "mcq",
+                    "question": "What was the main tactic employed by the German forces during the Blitzkrieg?",
+                    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-sRJ9dYnUrN83Yfneak5MYuza/user-HqJNuG0wMAYtQxwQR7DB3KEH/img-SlWLiIXTypAYRLV2pcr4H5Ow.png?st=2023-11-21T08%3A27%3A58Z&se=2023-11-21T10%3A27%3A58Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-20T20%3A26%3A57Z&ske=2023-11-21T20%3A26%3A57Z&sks=b&skv=2021-08-06&sig=%2Bi5WrT2jqeNOOWAFyMzJGK1WJAu8aqwCY5NVKirPbrw%3D",
+                    "options": [
+                        {
+                            "A": {
+                                "text": "Aerial bombardment"
+                            }
+                        },
+                        {
+                            "B": {
+                                "text": "Guerrilla warfare"
+                            }
+                        },
+                        {
+                            "C": {
+                                "text": "Trench warfare"
+                            }
+                        },
+                        {
+                            "D": {
+                                "text": "Fast-moving combined arms operations"
+                            }
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "type": "fill_in_the_blank",
+                    "question": "Blitzkrieg was characterized by the use of ______________ to quickly penetrate enemy lines.",
+                    "image_url": "OpenAI API returned an API Error: Error code: 400 - {'error': {'code': 'content_policy_violation', 'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'param': None, 'type': 'invalid_request_error'}}",
+                    "correct_answer": "panzer divisions"
+                },
+                {
+                    "type": "text",
+                    "question": "How did the Blitzkrieg tactic influence the subsequent course of the war?",
+                    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-sRJ9dYnUrN83Yfneak5MYuza/user-HqJNuG0wMAYtQxwQR7DB3KEH/img-JDHzwcyK29on5sNtw6dVOuDP.png?st=2023-11-21T08%3A28%3A05Z&se=2023-11-21T10%3A28%3A05Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-20T17%3A00%3A16Z&ske=2023-11-21T17%3A00%3A16Z&sks=b&skv=2021-08-06&sig=iDwv0VnOEgt5UvnLVuDxCnnITq9MPBHLxuSPFfI2shk%3D",
+                    "sample_answer": "The Blitzkrieg tactic allowed German forces to rapidly overwhelm and disorganize their opponents, leading to swift victories and the expansion of German territory. It changed the way wars were fought and influenced military tactics in future conflicts."
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "title": "The Battle of Stalingrad",
+            "story": "Brilliant job completing level 2! Now, shift your focus to the Eastern Front, where one of the most brutal battles of World War II raged on - the Battle of Stalingrad. As a virtual time traveler, you will witness the hardships faced by both the German and Soviet soldiers in this bitter struggle. Navigate through virtual battlefields, explore archival photographs, and listen to personal testimonies to uncover the strategic importance of Stalingrad and the tremendous human cost of this prolonged fight. Can you analyze the key turning points and provide an accurate account of this harrowing chapter in history?",
+            "challenges": [
+                {
+                    "type": "mcq",
+                    "question": "What was the strategic importance of the Battle of Stalingrad?",
+                    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-sRJ9dYnUrN83Yfneak5MYuza/user-HqJNuG0wMAYtQxwQR7DB3KEH/img-4AvlVSFn6oPJB3O1c0pRWPer.png?st=2023-11-21T08%3A28%3A52Z&se=2023-11-21T10%3A28%3A52Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-20T20%3A17%3A58Z&ske=2023-11-21T20%3A17%3A58Z&sks=b&skv=2021-08-06&sig=efrS9hnxwb%2Bh2C40vtyS/vCEjmPJQR40Yh09WctH6%2B8%3D",
+                    "options": [
+                        {
+                            "A": {
+                                "text": "To gain control of Soviet oil fields"
+                            }
+                        },
+                        {
+                            "B": {
+                                "text": "To capture important industrial centers"
+                            }
+                        },
+                        {
+                            "C": {
+                                "text": "To cut off Soviet supply lines"
+                            }
+                        },
+                        {
+                            "D": {
+                                "text": "To demoralize the Soviet population"
+                            }
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "type": "fill_in_the_blank",
+                    "question": "__________ battle was one of the most brutal battles of World War II.",
+                    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-sRJ9dYnUrN83Yfneak5MYuza/user-HqJNuG0wMAYtQxwQR7DB3KEH/img-6xkvb5TxmHFmtFdKf9SkdEqT.png?st=2023-11-21T08%3A28%3A59Z&se=2023-11-21T10%3A28%3A59Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-21T08%3A49%3A53Z&ske=2023-11-22T08%3A49%3A53Z&sks=b&skv=2021-08-06&sig=MruppIJ0UBDmBruWi2O4M2RrbbpT9RXLXkliUZBLihk%3D",
+                    "correct_answer": "The Battle of Stalingrad"
+                },
+                {
+                    "type": "text",
+                    "question": "Describe the hardships faced by the German and Soviet soldiers during the Battle of Stalingrad.",
+                    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-sRJ9dYnUrN83Yfneak5MYuza/user-HqJNuG0wMAYtQxwQR7DB3KEH/img-PelVloRWaA7SvNGbo4fBw8cy.png?st=2023-11-21T08%3A29%3A06Z&se=2023-11-21T10%3A29%3A06Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-20T20%3A24%3A07Z&ske=2023-11-21T20%3A24%3A07Z&sks=b&skv=2021-08-06&sig=srhbuQHiN9m7IgXDckcyWh%2BwzUdu9wB92yMsFFX88hM%3D",
+                    "sample_answer": "The soldiers faced extreme cold, lack of supplies, heavy casualties, and fierce fighting in urban environments."
+                }
+            ]
+        }
+    ]
+}
